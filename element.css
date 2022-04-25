@@ -1,0 +1,28 @@
+p,a{
+    color: green
+}
+
+li{
+    list-style-type: square;
+}
+
+.special{
+    color:orange;
+    font-weight: bold;
+}
+ 
+li em{
+    color:aqua;
+}
+
+a:hover{
+    color:brown;
+    text-decoration:none;
+}
+
+body h1+p, special{
+    color:yellow;
+    backgroung-color:black;
+    padding:5px;
+}
+
