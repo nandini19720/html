@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOX MODEL</title>
+    <style>
+        div{
+            height:200px;
+            padding: 18px;
+            border: 10px salmon;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+   
+       <div>
+       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur dolorem, laudantium non eligendi laborum distinctio velit est qui quia odio quo explicabo. Esse ea quidem minus saepe nam error quia impedit architecto iusto quibusdam adipisci officiis perspiciatis, quo iure laboriosam voluptates odio velit sint id tenetur totam molestiae! Maiores tempora est numquam corrupti sint aperiam laboriosam explicabo earum sapiente nisi totam assumenda quasi doloremque, quae hic nam repudiandae iusto, dolorum quia vero quisquam delectus. Dolor vero dignissimos odit! Repudiandae provident atque ad ipsam. Eaque autem esse asperiores omnis dolorum adipisci, impedit reprehenderit facere facilis repudiandae sint maxime. Dolor, inventore mollitia!
+       </div>
+   
+</body>
+</html>
